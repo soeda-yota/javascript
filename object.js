@@ -1,2 +1,2 @@
 let displayArea = document.getElementById('display-area');
-displayArea.innerText = 'JS大好き！';
+displayArea.innerText = '2020最高でした';
